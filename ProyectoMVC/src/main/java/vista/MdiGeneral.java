@@ -58,7 +58,7 @@ public class MdiGeneral extends javax.swing.JFrame {
             .addGap(0, 279, Short.MAX_VALUE)
         );
 
-        jMenu1.setText("Catalogos");
+        jMenu1.setText("Catalogos Peliculas");
 
         jMenu3.setText("Mantenimientos");
         jMenu3.addActionListener(new java.awt.event.ActionListener() {

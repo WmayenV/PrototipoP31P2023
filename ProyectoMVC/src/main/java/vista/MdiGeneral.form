@@ -16,7 +16,7 @@
       <SubComponents>
         <Menu class="javax.swing.JMenu" name="jMenu1">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Catalogos"/>
+            <Property name="text" type="java.lang.String" value="Catalogos Peliculas"/>
           </Properties>
           <SubComponents>
             <Menu class="javax.swing.JMenu" name="jMenu3">
