@@ -1,3 +1,15 @@
+commit 55a7f556d010f0c8579302fff8ae64b7d5f7e3e9
+Author: WmayenV <willysomv101@gmail.com>
+Date:   Mon Mar 6 12:55:00 2023 -0600
+
+    solucion
+
+commit 3f5f222f0999454fef94d13ac22fe62233627dde
+Author: WmayenV <98401923+WmayenV@users.noreply.github.com>
+Date:   Mon Mar 6 12:50:27 2023 -0600
+
+    ScriptParcial1
+
 commit 5caacc34ca00e4685910bba162791cbd4d167c37
 Author: WmayenV <willysomv101@gmail.com>
 Date:   Mon Mar 6 12:07:29 2023 -0600
